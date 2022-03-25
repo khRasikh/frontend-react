@@ -1,0 +1,26 @@
+.newApp{
+  background-color: #0b9ed0;
+  color: white;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 0.1%;
+  padding-bottom: 0.1%;
+}
+
+.newBody{
+  background-color: #ededed;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 0.1%;
+  padding-bottom: 0.1%;
+  height: 400px;
+}
+.newFooter{
+  background-color: #0b9ed0;
+  color:  white;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 0.1%;
+  padding-bottom: 0.1%;
+  height: 40%;
+}
