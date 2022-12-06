@@ -6,18 +6,11 @@ import reportWebVitals from './reportWebVitals';
 // import PropsApp from './Components/Propss';
 
 /*2. Displaying useState */
-// import UseStateType from './Components/UseState';
-// import UseStateCounter from './Components/UseState-01';
-
-/*3. Displaying useEffect */
-// import MyUseEffect from './Components/UseEffect'; 
-
-/*4. Displaying useContext */
-import MyUseContext from './Components/UseContext'; 
+import UseStateType from './Components/UseState';
 
 ReactDOM.render(
   <React.StrictMode>
-    <MyUseContext />
+    <UseStateType />
   </React.StrictMode>,
   document.getElementById('root')
 );
@@ -26,6 +19,3 @@ ReactDOM.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
-
-
-
